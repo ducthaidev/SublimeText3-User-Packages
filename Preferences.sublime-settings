@@ -1,0 +1,14 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"ignored_packages": [],
+	"vintage_start_in_command_mode": true,
+	"vintage_ctrl_keys": true
+// Vintage supports these Ctrl key bindings:
+// Ctrl+[: Escape
+// Ctrl+R: Redo
+// Ctrl+Y: Scroll down one line
+// Ctrl+E: Scroll up one line
+// Ctrl+F: Page Down
+// Ctrl+B: Page Up
+}
